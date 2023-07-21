@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  data:
+    mongodb:
+      uri: your connection string here
+      database: your database here
